@@ -32,4 +32,4 @@ Using various subsets of the Airlines Dataset (~150M rows):
 
 ## OpenML AutoML Benchmark
 
-- TO DO: Add the OpenML benchmarking code
+An overview of the OpenML AutoML Benchmark as well as instructions for how to reproduce the benchmark are available in a separate [README.md](https://github.com/h2oai/h2o-automl-paper/blob/master/openml_automlbenchmark/README.md).  Also included in the `./openml_automlbenchmark` subfolder is the results files for each framework that was included (TPOT, auto-sklearn, H2O AutoML, AutoGluon-Tabular) and the H2O AutoML leaderboards generated during the benchmark.
