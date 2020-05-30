@@ -1,6 +1,6 @@
 # H2O AutoML Paper
 
-👋 This repository contains the code for the H2O AutoML paper (link to the pdf will be added here after the paper is published).
+👋 This repository contains the code for the H2O AutoML paper (link to the pdf will be added here after the paper is published).  The Experiments section contains the H2O AutoML specific experiments and the OpenML AutoML Benchmark contains benchmarks against other AutoML systems.
 
 
 ## Experiments
