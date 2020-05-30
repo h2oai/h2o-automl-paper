@@ -16,7 +16,7 @@
 
 Using various subsets of the Airlines Dataset (~150M rows):
 
-- 10k, 100k, 1M, 10M, 100M training sets
+- 10k, 100k, 1M, 10M, 100M row training sets
 - 100k test set 
 
 
@@ -26,7 +26,7 @@ Using various subsets of the Airlines Dataset (~150M rows):
 
 Using various subsets of the Airlines Dataset (~150M rows):
 
-- 10k, 100k, 1M, 10M, 100M training sets
+- 10k, 100k, 1M, 10M, 100M row training sets
 - 100k test set 
 
 
