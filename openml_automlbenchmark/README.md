@@ -10,7 +10,7 @@ THe datasets used for the benchmarks are all listed in [datasets.csv] with some 
 
 Using the [automlbenchmark] application, all the framework comparison results could be theoretically obtained by simply running:
 ```bash
-for c in 1h8c 4h8c; do
+for c in 1h8c; do
     for b in small medium validation regr_small regr_medium; do
         for f in h2oautoml autogluon autosklearn tpot; do
             python runbenchmark.py $f $b $c -u ~/.config/automlbenchmark/h2opaper -o ./h2opaper/frameworks -m aws -p 100 -Xmax_parallel_jobs=120 -Xseed=1 -Xaws.use_docker=True -Xdelay_between_jobs=10
@@ -20,7 +20,7 @@ done
 ```
 In practice, this was not all executed in a single loop to improve parallelism.
 
-The `1h8c` and `4h8c` constraints show that all the listed frameworks have been tested for 1h and 4h on 8 cores machines: `m5.2xlarge` EC2 instances.
+The `1h8c` constraint tells that all the listed frameworks have been tested for 1h on 8 cores: `m5.2xlarge` EC2 instances.
 
 ### Configuration
 
