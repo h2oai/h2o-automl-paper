@@ -1,0 +1,51 @@
+id,task,framework,fold,result,mode,version,params,tag,utc,duration,models,seed,info,acc,auc,logloss
+openml.org/t/9910,bioresponse,autosklearn,0,0.875769,aws.docker,0.6.0,,stable,2020-05-15T14:45:49,3598.4,12,1,,0.805851,0.875769,
+openml.org/t/9910,bioresponse,autosklearn,1,0.855654,aws.docker,0.6.0,,stable,2020-05-15T14:45:56,3599.2,22,1,,0.76,0.855654,
+openml.org/t/9910,bioresponse,autosklearn,2,0.871864,aws.docker,0.6.0,,stable,2020-05-15T14:45:50,3598.4,15,1,,0.8,0.871864,
+openml.org/t/9910,bioresponse,autosklearn,3,0.911903,aws.docker,0.6.0,,stable,2020-05-15T14:45:54,3598.7,12,1,,0.834667,0.911903,
+openml.org/t/9910,bioresponse,autosklearn,5,0.859635,aws.docker,0.6.0,,stable,2020-05-15T14:46:00,3598.0,10,1,,0.794667,0.859635,
+openml.org/t/9910,bioresponse,autosklearn,6,0.859635,aws.docker,0.6.0,,stable,2020-05-15T14:46:10,3597.9,12,1,,0.776,0.859635,
+openml.org/t/9910,bioresponse,autosklearn,7,0.871718,aws.docker,0.6.0,,stable,2020-05-15T14:46:21,3598.3,12,1,,0.794667,0.871718,
+openml.org/t/9910,bioresponse,autosklearn,8,0.864952,aws.docker,0.6.0,,stable,2020-05-15T14:46:25,3599.1,16,1,,0.816,0.864952,
+openml.org/t/9910,bioresponse,autosklearn,9,0.841675,aws.docker,0.6.0,,stable,2020-05-15T14:46:22,3596.0,14,1,,0.757333,0.841675,
+openml.org/t/9910,bioresponse,autosklearn,4,0.875558,aws.docker,0.6.0,,stable,2020-05-15T14:46:26,3598.5,16,1,,0.781333,0.875558,
+openml.org/t/125920,dresses-sales,autosklearn,0,0.541872,aws.docker,0.6.0,,stable,2020-05-15T14:46:46,3636.5,8,1,,0.54,0.541872,
+openml.org/t/125920,dresses-sales,autosklearn,1,0.735632,aws.docker,0.6.0,,stable,2020-05-15T14:46:55,3636.7,13,1,,0.66,0.735632,
+openml.org/t/125920,dresses-sales,autosklearn,2,0.576355,aws.docker,0.6.0,,stable,2020-05-15T14:46:52,3633.5,14,1,,0.58,0.576355,
+openml.org/t/125920,dresses-sales,autosklearn,3,0.579639,aws.docker,0.6.0,,stable,2020-05-15T14:47:03,3635.7,14,1,,0.58,0.579639,
+openml.org/t/125920,dresses-sales,autosklearn,4,0.662562,aws.docker,0.6.0,,stable,2020-05-15T14:46:59,3627.2,8,1,,0.58,0.662562,
+openml.org/t/125920,dresses-sales,autosklearn,5,0.632184,aws.docker,0.6.0,,stable,2020-05-15T14:47:09,3633.8,12,1,,0.58,0.632184,
+openml.org/t/125920,dresses-sales,autosklearn,6,0.581281,aws.docker,0.6.0,,stable,2020-05-15T14:47:16,3634.1,18,1,,0.66,0.581281,
+openml.org/t/125920,dresses-sales,autosklearn,7,0.591133,aws.docker,0.6.0,,stable,2020-05-15T14:47:27,3634.6,6,1,,0.58,0.591133,
+openml.org/t/125920,dresses-sales,autosklearn,8,0.559934,aws.docker,0.6.0,,stable,2020-05-15T14:47:21,3627.3,2,1,,0.56,0.559934,
+openml.org/t/125920,dresses-sales,autosklearn,9,0.533662,aws.docker,0.6.0,,stable,2020-05-15T14:47:29,3617.6,16,1,,0.54,0.533662,
+openml.org/t/2079,eucalyptus,autosklearn,0,0.720268,aws.docker,0.6.0,,stable,2020-05-15T15:49:48,3633.6,2,1,,0.635135,,0.720268
+openml.org/t/2079,eucalyptus,autosklearn,2,0.747949,aws.docker,0.6.0,,stable,2020-05-15T15:50:01,3618.4,5,1,,0.662162,,0.747949
+openml.org/t/2079,eucalyptus,autosklearn,3,0.734823,aws.docker,0.6.0,,stable,2020-05-15T15:50:04,3627.6,8,1,,0.675676,,0.734823
+openml.org/t/2079,eucalyptus,autosklearn,5,0.692417,aws.docker,0.6.0,,stable,2020-05-15T15:50:05,3614.8,6,1,,0.743243,,0.692417
+openml.org/t/2079,eucalyptus,autosklearn,6,0.861048,aws.docker,0.6.0,,stable,2020-05-15T15:50:21,3624.5,5,1,,0.616438,,0.861048
+openml.org/t/2079,eucalyptus,autosklearn,7,0.751713,aws.docker,0.6.0,,stable,2020-05-15T15:50:14,3618.1,5,1,,0.616438,,0.751713
+openml.org/t/2079,eucalyptus,autosklearn,8,0.73983,aws.docker,0.6.0,,stable,2020-05-15T15:50:23,3619.2,5,1,,0.643836,,0.73983
+openml.org/t/167125,internet-advertisements,autosklearn,3,0.998381,aws.docker,0.6.0,,stable,2020-05-15T15:51:05,3598.1,14,1,,0.981707,0.998381,
+openml.org/t/167125,internet-advertisements,autosklearn,0,0.979263,aws.docker,0.6.0,,stable,2020-05-15T15:50:55,3598.7,15,1,,0.966463,0.979263,
+openml.org/t/167125,internet-advertisements,autosklearn,6,0.967545,aws.docker,0.6.0,,stable,2020-05-15T15:51:25,3597.9,14,1,,0.972561,0.967545,
+openml.org/t/167125,internet-advertisements,autosklearn,2,0.982655,aws.docker,0.6.0,,stable,2020-05-15T15:51:18,3598.7,10,1,,0.945122,0.982655,
+openml.org/t/167125,internet-advertisements,autosklearn,9,0.99212,aws.docker,0.6.0,,stable,2020-05-15T15:51:36,3596.8,15,1,,0.978593,0.99212,
+openml.org/t/167125,internet-advertisements,autosklearn,4,0.998458,aws.docker,0.6.0,,stable,2020-05-15T15:51:20,3598.8,14,1,,0.984756,0.998458,
+openml.org/t/167125,internet-advertisements,autosklearn,5,0.985353,aws.docker,0.6.0,,stable,2020-05-15T15:51:19,3597.6,2,1,,0.990854,0.985353,
+openml.org/t/167125,internet-advertisements,autosklearn,7,0.95683,aws.docker,0.6.0,,stable,2020-05-15T15:51:34,3597.5,10,1,,0.97561,0.95683,
+openml.org/t/167125,internet-advertisements,autosklearn,1,0.984428,aws.docker,0.6.0,,stable,2020-05-15T15:51:59,3598.2,19,1,,0.972561,0.984428,
+openml.org/t/9950,micro-mass,autosklearn,0,0.228177,aws.docker,0.6.0,,stable,2020-05-15T16:53:31,3600.9,11,1,,0.948276,,0.228177
+openml.org/t/9950,micro-mass,autosklearn,1,0.24752,aws.docker,0.6.0,,stable,2020-05-15T16:53:37,3603.4,6,1,,0.912281,,0.24752
+openml.org/t/9950,micro-mass,autosklearn,2,0.36519,aws.docker,0.6.0,,stable,2020-05-15T16:53:45,3597.9,7,1,,0.842105,,0.36519
+openml.org/t/9950,micro-mass,autosklearn,3,0.0725675,aws.docker,0.6.0,,stable,2020-05-15T16:53:56,3597.1,7,1,,0.982456,,0.0725675
+openml.org/t/9950,micro-mass,autosklearn,4,0.512876,aws.docker,0.6.0,,stable,2020-05-15T16:54:06,3603.8,4,1,,0.859649,,0.512876
+openml.org/t/9950,micro-mass,autosklearn,5,0.346472,aws.docker,0.6.0,,stable,2020-05-15T16:54:02,3599.8,6,1,,0.894737,,0.346472
+openml.org/t/9950,micro-mass,autosklearn,6,0.34992,aws.docker,0.6.0,,stable,2020-05-15T16:54:13,3600.6,6,1,,0.894737,,0.34992
+openml.org/t/9950,micro-mass,autosklearn,7,0.38158,aws.docker,0.6.0,,stable,2020-05-15T16:54:38,3599.5,11,1,,0.877193,,0.38158
+openml.org/t/9950,micro-mass,autosklearn,8,0.367067,aws.docker,0.6.0,,stable,2020-05-15T16:54:46,3600.2,7,1,,0.877193,,0.367067
+openml.org/t/9950,micro-mass,autosklearn,9,,aws.docker,0.6.0,,stable,2020-05-15T16:54:51,3605.7,,1,NoResultError: Expecting value: line 1 column 1 (char 0),,,
+openml.org/t/2079,eucalyptus,autosklearn,4,,aws,0.6.0,,stable,2020-05-15T16:14:21,5204.6,,1,Exception: Aborting instance i-089968d6b41778f86 for job aws_validation_1h8c_eucalyptus_4_autosklearn.,,,
+openml.org/t/2079,eucalyptus,autosklearn,1,,aws,0.6.0,,stable,2020-05-15T16:19:05,5506.1,,1,Exception: Aborting instance i-0b27b4ac6561a8caf for job aws_validation_1h8c_eucalyptus_1_autosklearn.,,,
+openml.org/t/2079,eucalyptus,autosklearn,9,,aws,0.6.0,,stable,2020-05-15T16:19:19,5478.7,,1,Exception: Aborting instance i-01ee1ac51e2d9fee6 for job aws_validation_1h8c_eucalyptus_9_autosklearn.,,,
+openml.org/t/167125,internet-advertisements,autosklearn,8,,aws,0.6.0,,stable,2020-05-15T16:04:08,4524.9,,1,Exception: Aborting instance i-037c3bd97684e330b for job aws_validation_1h8c_internet-advertisements_8_autosklearn.,,,
