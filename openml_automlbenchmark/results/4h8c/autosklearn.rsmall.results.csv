@@ -1,0 +1,51 @@
+id,task,framework,fold,result,mode,version,params,tag,utc,duration,models,seed,info,r2,rmse
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,0,,aws.docker,0.6.0,,stable,2020-05-16T05:48:30,6.9,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,2,,aws.docker,0.6.0,,stable,2020-05-16T05:48:44,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,3,,aws.docker,0.6.0,,stable,2020-05-16T05:49:01,6.9,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,4,,aws.docker,0.6.0,,stable,2020-05-16T05:49:05,6.8,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,1,,aws.docker,0.6.0,,stable,2020-05-16T05:48:43,6.9,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,5,,aws.docker,0.6.0,,stable,2020-05-16T05:49:18,6.9,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,6,,aws.docker,0.6.0,,stable,2020-05-16T05:49:25,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,7,,aws.docker,0.6.0,,stable,2020-05-16T05:49:35,6.7,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,8,,aws.docker,0.6.0,,stable,2020-05-16T05:49:44,6.9,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,autosklearn,9,,aws.docker,0.6.0,,stable,2020-05-16T05:50:09,6.9,,1,ValueError: could not convert string to float: 'FolioSuite/WeightBoundedDominatingSetSuite/rand_150_600_1159731678_6.gph.lp.gz',,
+openml.org/t/4804,mtp2,autosklearn,4,,aws.docker,0.6.0,,stable,2020-05-16T09:43:03,14443.1,,1,"NoResultError: Expecting ',' delimiter: line 1 column 128034 (char 128033)",,
+openml.org/t/4804,mtp2,autosklearn,5,0.137656,aws.docker,0.6.0,,stable,2020-05-16T09:43:36,14448.4,7,1,,0.515512,0.137656
+openml.org/t/166852,Moneyball,autosklearn,4,26.0258,aws.docker,0.6.0,,stable,2020-05-16T09:43:58,14399.2,6,1,,0.926073,26.0258
+openml.org/t/166852,Moneyball,autosklearn,0,20.3748,aws.docker,0.6.0,,stable,2020-05-16T09:44:00,14438.9,6,1,,0.949724,20.3748
+openml.org/t/4804,mtp2,autosklearn,9,0.138607,aws.docker,0.6.0,,stable,2020-05-16T09:44:13,14452.8,5,1,,0.259595,0.138607
+openml.org/t/166852,Moneyball,autosklearn,1,21.1486,aws.docker,0.6.0,,stable,2020-05-16T09:44:05,14439.7,3,1,,0.94369,21.1486
+openml.org/t/166852,Moneyball,autosklearn,2,20.4518,aws.docker,0.6.0,,stable,2020-05-16T09:44:31,14441.1,6,1,,0.947409,20.4518
+openml.org/t/166852,Moneyball,autosklearn,3,22.2024,aws.docker,0.6.0,,stable,2020-05-16T09:44:31,14438.7,7,1,,0.941153,22.2024
+openml.org/t/166852,Moneyball,autosklearn,5,20.9087,aws.docker,0.6.0,,stable,2020-05-16T09:44:45,14432.0,7,1,,0.94515,20.9087
+openml.org/t/166852,Moneyball,autosklearn,7,20.4499,aws.docker,0.6.0,,stable,2020-05-16T09:45:11,14441.1,5,1,,0.950896,20.4499
+openml.org/t/166852,Moneyball,autosklearn,6,20.9983,aws.docker,0.6.0,,stable,2020-05-16T09:45:22,14438.4,7,1,,0.947616,20.9983
+openml.org/t/166852,Moneyball,autosklearn,8,21.3567,aws.docker,0.6.0,,stable,2020-05-16T09:45:15,14433.9,4,1,,0.943898,21.3567
+openml.org/t/211991,QSAR-TID-11140,autosklearn,0,,aws.docker,0.6.0,,stable,2020-05-16T09:45:14,14406.5,,1,NoResultError: Expecting ':' delimiter: line 1 column 8198 (char 8197),,
+openml.org/t/211991,QSAR-TID-11140,autosklearn,1,0.710248,aws.docker,0.6.0,,stable,2020-05-16T09:45:32,14405.2,10,1,,0.699423,0.710248
+openml.org/t/211991,QSAR-TID-11140,autosklearn,2,0.735593,aws.docker,0.6.0,,stable,2020-05-16T09:45:31,14399.8,10,1,,0.70272,0.735593
+openml.org/t/166852,Moneyball,autosklearn,9,20.1985,aws.docker,0.6.0,,stable,2020-05-16T09:45:37,14448.5,9,1,,0.952412,20.1985
+openml.org/t/211991,QSAR-TID-11140,autosklearn,4,0.804146,aws.docker,0.6.0,,stable,2020-05-16T09:45:59,14405.4,12,1,,0.671958,0.804146
+openml.org/t/211991,QSAR-TID-11140,autosklearn,3,0.698581,aws.docker,0.6.0,,stable,2020-05-16T09:45:51,14402.2,17,1,,0.702228,0.698581
+openml.org/t/211991,QSAR-TID-11140,autosklearn,5,0.707806,aws.docker,0.6.0,,stable,2020-05-16T09:46:03,14405.9,11,1,,0.707225,0.707806
+openml.org/t/211991,QSAR-TID-11140,autosklearn,6,0.700208,aws.docker,0.6.0,,stable,2020-05-16T09:46:13,14401.7,10,1,,0.743223,0.700208
+openml.org/t/2307,elevators,autosklearn,0,0.0018704,aws.docker,0.6.0,,stable,2020-05-16T09:46:43,14397.7,10,1,,0.926386,0.0018704
+openml.org/t/211991,QSAR-TID-11140,autosklearn,7,0.737655,aws.docker,0.6.0,,stable,2020-05-16T09:46:31,14404.3,12,1,,0.692958,0.737655
+openml.org/t/211991,QSAR-TID-11140,autosklearn,8,0.715668,aws.docker,0.6.0,,stable,2020-05-16T09:46:46,14403.8,9,1,,0.679553,0.715668
+openml.org/t/211991,QSAR-TID-11140,autosklearn,9,0.719229,aws.docker,0.6.0,,stable,2020-05-16T09:46:59,14404.5,9,1,,0.692521,0.719229
+openml.org/t/2307,elevators,autosklearn,2,,aws.docker,0.6.0,,stable,2020-05-16T09:47:04,14401.7,,1,NoResultError: Expecting value: line 1 column 1 (char 0),,
+openml.org/t/2307,elevators,autosklearn,1,0.00190303,aws.docker,0.6.0,,stable,2020-05-16T09:46:54,14398.6,10,1,,0.923737,0.00190303
+openml.org/t/2307,elevators,autosklearn,3,0.00198456,aws.docker,0.6.0,,stable,2020-05-16T09:47:19,14397.5,11,1,,0.914343,0.00198456
+openml.org/t/2307,elevators,autosklearn,4,0.00201193,aws.docker,0.6.0,,stable,2020-05-16T09:47:22,14397.5,15,1,,0.915525,0.00201193
+openml.org/t/2307,elevators,autosklearn,6,0.00188038,aws.docker,0.6.0,,stable,2020-05-16T09:48:03,14398.6,9,1,,0.918229,0.00188038
+openml.org/t/2307,elevators,autosklearn,5,0.00201552,aws.docker,0.6.0,,stable,2020-05-16T09:47:51,14399.1,13,1,,0.89926,0.00201552
+openml.org/t/2307,elevators,autosklearn,7,0.0019791,aws.docker,0.6.0,,stable,2020-05-16T09:47:52,14398.5,13,1,,0.915646,0.0019791
+openml.org/t/2307,elevators,autosklearn,8,0.00194909,aws.docker,0.6.0,,stable,2020-05-16T09:48:11,14398.5,15,1,,0.91662,0.00194909
+openml.org/t/2307,elevators,autosklearn,9,0.00207241,aws.docker,0.6.0,,stable,2020-05-16T09:48:13,14397.7,9,1,,0.893167,0.00207241
+openml.org/t/4804,mtp2,autosklearn,6,,aws,0.6.0,,stable,2020-05-16T08:35:20,10491.7,,1,Exception: Aborting instance i-056f4ea9012a888e5 for job aws_regr_small_4h8c_mtp2_6_autosklearn.,,
+openml.org/t/4804,mtp2,autosklearn,1,,aws,0.6.0,,stable,2020-05-16T09:25:43,13565.3,,1,Exception: Aborting instance i-063cf5af9286d3e3b for job aws_regr_small_4h8c_mtp2_1_autosklearn.,,
+openml.org/t/4804,mtp2,autosklearn,0,,aws,0.6.0,,stable,2020-05-16T09:40:44,14476.0,,1,Exception: Aborting instance i-01a9484dfd2419345 for job aws_regr_small_4h8c_mtp2_0_autosklearn.,,
+openml.org/t/4804,mtp2,autosklearn,2,,aws,0.6.0,,stable,2020-05-16T09:55:51,15362.7,,1,Exception: Aborting instance i-0670166fd0735e6d4 for job aws_regr_small_4h8c_mtp2_2_autosklearn.,,
+openml.org/t/4804,mtp2,autosklearn,3,,aws,0.6.0,,stable,2020-05-16T09:55:52,15353.8,,1,Exception: Aborting instance i-0fe41cc99a5d2248f for job aws_regr_small_4h8c_mtp2_3_autosklearn.,,
+openml.org/t/4804,mtp2,autosklearn,7,,aws,0.6.0,,stable,2020-05-16T10:10:49,16210.6,,1,Exception: Aborting instance i-0167ea703b90bbae9 for job aws_regr_small_4h8c_mtp2_7_autosklearn.,,
+openml.org/t/4804,mtp2,autosklearn,8,,aws,0.6.0,,stable,2020-05-16T10:11:00,16211.4,,1,Exception: Aborting instance i-0f803d09fbc4d406f for job aws_regr_small_4h8c_mtp2_8_autosklearn.,,

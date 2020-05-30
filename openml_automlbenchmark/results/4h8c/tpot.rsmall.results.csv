@@ -1,0 +1,51 @@
+id,task,framework,fold,result,mode,version,params,tag,utc,duration,models,seed,info,r2,rmse
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,2,,aws.docker,0.11.1,{},stable,2020-05-17T00:03:20,6.8,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,0,,aws.docker,0.11.1,{},stable,2020-05-17T00:03:09,6.8,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,1,,aws.docker,0.11.1,{},stable,2020-05-17T00:03:22,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,3,,aws.docker,0.11.1,{},stable,2020-05-17T00:03:42,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,4,,aws.docker,0.11.1,{},stable,2020-05-17T00:03:51,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,8,,aws.docker,0.11.1,{},stable,2020-05-17T00:04:18,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,6,,aws.docker,0.11.1,{},stable,2020-05-17T00:04:07,7.2,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,5,,aws.docker,0.11.1,{},stable,2020-05-17T00:05:16,6.8,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,9,,aws.docker,0.11.1,{},stable,2020-05-17T00:05:25,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/WeightBoundedDominatingSetSuite/rand_150_600_1159731678_6.gph.lp.gz',,
+openml.org/t/189936,ASP-POTASSCO-regression,TPOT,7,,aws.docker,0.11.1,{},stable,2020-05-17T00:07:30,7.0,,1,ValueError: could not convert string to float: 'FolioSuite/ASP-Comp-2009-Lparse/CompGeneralizedSlitherlink/trisquares.49.asp.gz',,
+openml.org/t/211991,QSAR-TID-11140,TPOT,2,0.711849,aws.docker,0.11.1,{},stable,2020-05-17T00:38:04,2280.3,93,1,,0.721602,0.711849
+openml.org/t/166852,Moneyball,TPOT,2,21.5965,aws.docker,0.11.1,{},stable,2020-05-17T00:41:39,2597.4,9539,1,,0.941358,21.5965
+openml.org/t/211991,QSAR-TID-11140,TPOT,3,0.732274,aws.docker,0.11.1,{},stable,2020-05-17T00:43:35,2608.1,187,1,,0.672812,0.732274
+openml.org/t/166852,Moneyball,TPOT,4,21.2939,aws.docker,0.11.1,{},stable,2020-05-17T00:44:31,2756.9,9432,1,,0.950512,21.2939
+openml.org/t/166852,Moneyball,TPOT,8,22.1149,aws.docker,0.11.1,{},stable,2020-05-17T00:55:43,3392.6,9368,1,,0.939843,22.1149
+openml.org/t/166852,Moneyball,TPOT,1,21.224,aws.docker,0.11.1,{},stable,2020-05-17T01:11:17,4392.0,9365,1,,0.943288,21.224
+openml.org/t/211991,QSAR-TID-11140,TPOT,1,0.690081,aws.docker,0.11.1,{},stable,2020-05-17T01:19:25,4757.4,376,1,,0.71625,0.690081
+openml.org/t/211991,QSAR-TID-11140,TPOT,7,0.740859,aws.docker,0.11.1,{},stable,2020-05-17T01:24:52,5040.6,281,1,,0.690285,0.740859
+openml.org/t/211991,QSAR-TID-11140,TPOT,5,0.720201,aws.docker,0.11.1,{},stable,2020-05-17T01:39:32,5948.5,383,1,,0.696881,0.720201
+openml.org/t/166852,Moneyball,TPOT,3,22.3163,aws.docker,0.11.1,{},stable,2020-05-17T01:43:07,6285.3,9383,1,,0.940547,22.3163
+openml.org/t/166852,Moneyball,TPOT,5,20.6322,aws.docker,0.11.1,{},stable,2020-05-17T01:45:56,6431.9,9487,1,,0.946591,20.6322
+openml.org/t/166852,Moneyball,TPOT,9,19.4644,aws.docker,0.11.1,{},stable,2020-05-17T02:00:06,7238.7,9437,1,,0.955808,19.4644
+openml.org/t/166852,Moneyball,TPOT,7,20.4493,aws.docker,0.11.1,{},stable,2020-05-17T02:27:37,8905.8,9703,1,,0.950899,20.4493
+openml.org/t/211991,QSAR-TID-11140,TPOT,4,0.770951,aws.docker,0.11.1,{},stable,2020-05-17T03:18:24,11881.8,284,1,,0.698483,0.770951
+openml.org/t/4804,mtp2,TPOT,0,0.13597,aws.docker,0.11.1,{},stable,2020-05-17T03:57:19,14462.6,397,1,,0.293976,0.13597
+openml.org/t/4804,mtp2,TPOT,5,0.137176,aws.docker,0.11.1,{},stable,2020-05-17T03:57:20,14418.5,1459,1,,0.51889,0.137176
+openml.org/t/4804,mtp2,TPOT,9,0.144138,aws.docker,0.11.1,{},stable,2020-05-17T03:58:51,14463.6,977,1,,0.199324,0.144138
+openml.org/t/4804,mtp2,TPOT,2,0.191968,aws.docker,0.11.1,{},stable,2020-05-17T04:00:32,14641.0,920,1,,0.270721,0.191968
+openml.org/t/211991,QSAR-TID-11140,TPOT,6,0.69355,aws.docker,0.11.1,{},stable,2020-05-17T04:00:58,14420.6,977,1,,0.748083,0.69355
+openml.org/t/4804,mtp2,TPOT,1,0.143272,aws.docker,0.11.1,{},stable,2020-05-17T04:01:47,14724.1,381,1,,0.466387,0.143272
+openml.org/t/2307,elevators,TPOT,1,0.00175892,aws.docker,0.11.1,{},stable,2020-05-17T04:02:45,14482.8,2302,1,,0.934851,0.00175892
+openml.org/t/211991,QSAR-TID-11140,TPOT,8,0.717384,aws.docker,0.11.1,{},stable,2020-05-17T04:02:36,14482.8,1015,1,,0.678015,0.717384
+openml.org/t/2307,elevators,TPOT,7,0.00185974,aws.docker,0.11.1,{},stable,2020-05-17T04:03:04,14433.7,2540,1,,0.925514,0.00185974
+openml.org/t/2307,elevators,TPOT,3,0.00189624,aws.docker,0.11.1,{},stable,2020-05-17T04:03:25,14489.7,1759,1,,0.921798,0.00189624
+openml.org/t/2307,elevators,TPOT,5,0.0019291,aws.docker,0.11.1,{},stable,2020-05-17T04:03:52,14495.7,2234,1,,0.907714,0.0019291
+openml.org/t/2307,elevators,TPOT,8,0.00183641,aws.docker,0.11.1,{},stable,2020-05-17T04:03:59,14485.8,1951,1,,0.925982,0.00183641
+openml.org/t/2307,elevators,TPOT,6,0.00180224,aws.docker,0.11.1,{},stable,2020-05-17T04:03:57,14500.0,2272,1,,0.924883,0.00180224
+openml.org/t/4804,mtp2,TPOT,8,0.146103,aws.docker,0.11.1,{},stable,2020-05-17T04:05:13,14854.9,575,1,,0.378747,0.146103
+openml.org/t/2307,elevators,TPOT,0,0.00184459,aws.docker,0.11.1,{},stable,2020-05-17T04:05:14,14635.6,3101,1,,0.928404,0.00184459
+openml.org/t/211991,QSAR-TID-11140,TPOT,9,0.734614,aws.docker,0.11.1,{},stable,2020-05-17T04:05:10,14568.1,1045,1,,0.679225,0.734614
+openml.org/t/2307,elevators,TPOT,4,0.0019239,aws.docker,0.11.1,{},stable,2020-05-17T04:06:22,14668.2,1685,1,,0.922755,0.0019239
+openml.org/t/2307,elevators,TPOT,9,0.00196766,aws.docker,0.11.1,{},stable,2020-05-17T04:07:07,14640.0,1724,1,,0.903694,0.00196766
+openml.org/t/2307,elevators,TPOT,2,0.00195407,aws.docker,0.11.1,{},stable,2020-05-17T04:07:21,14740.8,1775,1,,0.917705,0.00195407
+openml.org/t/4804,mtp2,TPOT,7,0.107952,aws.docker,0.11.1,{},stable,2020-05-17T04:18:06,15639.0,486,1,,0.477022,0.107952
+openml.org/t/4804,mtp2,TPOT,3,,aws.docker,0.11.1,{},stable,2020-05-17T04:56:42,18000.0,,1,Missing predictions.,,
+openml.org/t/4804,mtp2,TPOT,4,,aws.docker,0.11.1,{},stable,2020-05-17T04:57:06,18000.0,,1,Missing predictions.,,
+openml.org/t/4804,mtp2,TPOT,6,,aws.docker,0.11.1,{},stable,2020-05-17T04:57:10,18000.0,,1,Missing predictions.,,
+openml.org/t/166852,Moneyball,TPOT,0,,aws.docker,0.11.1,{},stable,2020-05-17T04:57:58,18000.0,,1,Missing predictions.,,
+openml.org/t/166852,Moneyball,TPOT,6,,aws.docker,0.11.1,{},stable,2020-05-17T04:58:49,18000.0,,1,Missing predictions.,,
+openml.org/t/211991,QSAR-TID-11140,TPOT,0,,aws.docker,0.11.1,{},stable,2020-05-17T04:59:51,18000.0,,1,Missing predictions.,,

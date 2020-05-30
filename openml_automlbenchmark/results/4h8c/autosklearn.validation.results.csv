@@ -1,0 +1,51 @@
+id,task,framework,fold,result,mode,version,params,tag,utc,duration,models,seed,info,acc,auc,logloss
+openml.org/t/9910,bioresponse,autosklearn,0,0.871837,aws.docker,0.6.0,,stable,2020-05-15T20:59:08,14406.1,13,1,,0.787234,0.871837,
+openml.org/t/9910,bioresponse,autosklearn,1,0.869487,aws.docker,0.6.0,,stable,2020-05-15T20:59:09,14405.7,19,1,,0.802667,0.869487,
+openml.org/t/9910,bioresponse,autosklearn,7,0.874298,aws.docker,0.6.0,,stable,2020-05-15T20:59:39,14406.0,12,1,,0.802667,0.874298,
+openml.org/t/9910,bioresponse,autosklearn,2,0.880943,aws.docker,0.6.0,,stable,2020-05-15T20:59:32,14417.2,15,1,,0.808,0.880943,
+openml.org/t/9910,bioresponse,autosklearn,9,,aws.docker,0.6.0,,stable,2020-05-15T20:59:50,14422.3,,1,NoResultError: Expecting ':' delimiter: line 1 column 60133 (char 60132),,,
+openml.org/t/9910,bioresponse,autosklearn,5,0.85826,aws.docker,0.6.0,,stable,2020-05-15T20:59:37,14410.8,10,1,,0.789333,0.85826,
+openml.org/t/9910,bioresponse,autosklearn,4,0.874585,aws.docker,0.6.0,,stable,2020-05-15T20:59:37,14408.4,18,1,,0.770667,0.874585,
+openml.org/t/9910,bioresponse,autosklearn,6,0.855052,aws.docker,0.6.0,,stable,2020-05-15T20:59:49,14418.8,19,1,,0.773333,0.855052,
+openml.org/t/9910,bioresponse,autosklearn,8,0.868106,aws.docker,0.6.0,,stable,2020-05-15T20:59:54,14406.8,11,1,,0.802667,0.868106,
+openml.org/t/125920,dresses-sales,autosklearn,3,,aws.docker,0.6.0,,stable,2020-05-15T21:00:23,14429.6,,1,NoResultError: Expecting ':' delimiter: line 1 column 892058 (char 892057),,,
+openml.org/t/125920,dresses-sales,autosklearn,4,0.625616,aws.docker,0.6.0,,stable,2020-05-15T21:00:29,14436.7,17,1,,0.6,0.625616,
+openml.org/t/125920,dresses-sales,autosklearn,2,0.724138,aws.docker,0.6.0,,stable,2020-05-15T21:00:44,14460.4,25,1,,0.58,0.724138,
+openml.org/t/9910,bioresponse,autosklearn,3,0.918433,aws.docker,0.6.0,,stable,2020-05-15T21:00:36,14407.1,19,1,,0.845333,0.918433,
+openml.org/t/125920,dresses-sales,autosklearn,1,0.697865,aws.docker,0.6.0,,stable,2020-05-15T21:01:08,14491.4,9,1,,0.7,0.697865,
+openml.org/t/125920,dresses-sales,autosklearn,0,0.539409,aws.docker,0.6.0,,stable,2020-05-15T21:01:33,14519.0,30,1,,0.58,0.539409,
+openml.org/t/125920,dresses-sales,autosklearn,9,0.679803,aws.docker,0.6.0,,stable,2020-05-15T21:02:05,14492.8,9,1,,0.64,0.679803,
+openml.org/t/125920,dresses-sales,autosklearn,7,0.635468,aws.docker,0.6.0,,stable,2020-05-15T21:02:09,14506.6,11,1,,0.58,0.635468,
+openml.org/t/125920,dresses-sales,autosklearn,6,0.53202,aws.docker,0.6.0,,stable,2020-05-15T21:02:20,14522.0,9,1,,0.58,0.53202,
+openml.org/t/2079,eucalyptus,autosklearn,0,0.708321,aws.docker,0.6.0,,stable,2020-05-15T22:35:40,14492.0,7,1,,0.662162,,0.708321
+openml.org/t/2079,eucalyptus,autosklearn,7,0.715756,aws.docker,0.6.0,,stable,2020-05-16T01:04:16,14451.8,6,1,,0.616438,,0.715756
+openml.org/t/2079,eucalyptus,autosklearn,3,0.72419,aws.docker,0.6.0,,stable,2020-05-16T01:04:34,14479.8,6,1,,0.608108,,0.72419
+openml.org/t/2079,eucalyptus,autosklearn,2,0.720899,aws.docker,0.6.0,,stable,2020-05-16T01:04:58,14495.9,5,1,,0.702703,,0.720899
+openml.org/t/2079,eucalyptus,autosklearn,1,0.665403,aws.docker,0.6.0,,stable,2020-05-16T01:04:54,14493.5,8,1,,0.77027,,0.665403
+openml.org/t/2079,eucalyptus,autosklearn,4,0.741939,aws.docker,0.6.0,,stable,2020-05-16T01:05:01,14503.5,4,1,,0.662162,,0.741939
+openml.org/t/2079,eucalyptus,autosklearn,5,0.726506,aws.docker,0.6.0,,stable,2020-05-16T01:04:58,14501.3,7,1,,0.675676,,0.726506
+openml.org/t/167125,internet-advertisements,autosklearn,1,,aws.docker,0.6.0,,stable,2020-05-16T01:05:14,14455.9,,1,NoResultError: Expecting ':' delimiter: line 1 column 177914 (char 177913),,,
+openml.org/t/167125,internet-advertisements,autosklearn,3,0.996377,aws.docker,0.6.0,,stable,2020-05-16T01:05:17,14407.8,14,1,,0.981707,0.996377,
+openml.org/t/2079,eucalyptus,autosklearn,6,0.831939,aws.docker,0.6.0,,stable,2020-05-16T01:05:07,14503.7,7,1,,0.616438,,0.831939
+openml.org/t/167125,internet-advertisements,autosklearn,0,0.962997,aws.docker,0.6.0,,stable,2020-05-16T01:05:21,14408.8,14,1,,0.957317,0.962997,
+openml.org/t/2079,eucalyptus,autosklearn,8,0.718296,aws.docker,0.6.0,,stable,2020-05-16T01:05:25,14499.1,7,1,,0.712329,,0.718296
+openml.org/t/167125,internet-advertisements,autosklearn,2,0.970475,aws.docker,0.6.0,,stable,2020-05-16T01:05:26,14414.0,11,1,,0.896341,0.970475,
+openml.org/t/167125,internet-advertisements,autosklearn,4,0.990981,aws.docker,0.6.0,,stable,2020-05-16T01:05:52,14413.1,5,1,,0.984756,0.990981,
+openml.org/t/2079,eucalyptus,autosklearn,9,0.677652,aws.docker,0.6.0,,stable,2020-05-16T01:05:43,14513.6,5,1,,0.726027,,0.677652
+openml.org/t/167125,internet-advertisements,autosklearn,5,0.994218,aws.docker,0.6.0,,stable,2020-05-16T01:06:12,14406.2,12,1,,0.987805,0.994218,
+openml.org/t/167125,internet-advertisements,autosklearn,6,0.951665,aws.docker,0.6.0,,stable,2020-05-16T01:06:40,14411.7,7,1,,0.972561,0.951665,
+openml.org/t/167125,internet-advertisements,autosklearn,7,0.960299,aws.docker,0.6.0,,stable,2020-05-16T01:06:49,14408.4,6,1,,0.97561,0.960299,
+openml.org/t/167125,internet-advertisements,autosklearn,8,0.960646,aws.docker,0.6.0,,stable,2020-05-16T01:06:48,14403.6,12,1,,0.969512,0.960646,
+openml.org/t/167125,internet-advertisements,autosklearn,9,0.990071,aws.docker,0.6.0,,stable,2020-05-16T01:25:58,14412.7,10,1,,0.960245,0.990071,
+openml.org/t/9950,micro-mass,autosklearn,0,0.234885,aws.docker,0.6.0,,stable,2020-05-16T02:40:26,14435.2,11,1,,0.931034,,0.234885
+openml.org/t/9950,micro-mass,autosklearn,1,0.246427,aws.docker,0.6.0,,stable,2020-05-16T05:08:31,14423.3,5,1,,0.929825,,0.246427
+openml.org/t/9950,micro-mass,autosklearn,2,0.316558,aws.docker,0.6.0,,stable,2020-05-16T05:08:50,14421.8,7,1,,0.894737,,0.316558
+openml.org/t/9950,micro-mass,autosklearn,6,0.29806,aws.docker,0.6.0,,stable,2020-05-16T05:09:18,14424.6,9,1,,0.912281,,0.29806
+openml.org/t/9950,micro-mass,autosklearn,5,0.328694,aws.docker,0.6.0,,stable,2020-05-16T05:09:18,14420.7,6,1,,0.894737,,0.328694
+openml.org/t/9950,micro-mass,autosklearn,3,0.0810511,aws.docker,0.6.0,,stable,2020-05-16T05:09:21,14440.0,7,1,,0.964912,,0.0810511
+openml.org/t/9950,micro-mass,autosklearn,4,0.449246,aws.docker,0.6.0,,stable,2020-05-16T05:09:07,14418.9,7,1,,0.912281,,0.449246
+openml.org/t/9950,micro-mass,autosklearn,8,,aws.docker,0.6.0,,stable,2020-05-16T05:09:18,14422.5,,1,"NoResultError: Expecting ',' delimiter: line 1 column 657143 (char 657142)",,,
+openml.org/t/9950,micro-mass,autosklearn,9,0.357463,aws.docker,0.6.0,,stable,2020-05-16T05:09:36,14432.0,11,1,,0.859649,,0.357463
+openml.org/t/9950,micro-mass,autosklearn,7,0.375938,aws.docker,0.6.0,,stable,2020-05-16T05:09:52,14430.9,7,1,,0.859649,,0.375938
+openml.org/t/125920,dresses-sales,autosklearn,8,,aws,0.6.0,,stable,2020-05-15T18:31:55,5636.9,,1,Exception: Aborting instance i-0ebfcd038a3d980de for job aws_validation_4h8c_dresses-sales_8_autosklearn.,,,
+openml.org/t/125920,dresses-sales,autosklearn,5,,aws,0.6.0,,stable,2020-05-15T21:22:46,15902.3,,1,Exception: Aborting instance i-06b23d5a9f17afa8e for job aws_validation_4h8c_dresses-sales_5_autosklearn.,,,
