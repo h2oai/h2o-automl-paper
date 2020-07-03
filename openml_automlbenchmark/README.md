@@ -4,7 +4,7 @@ The results were obtained with the open access [automlbenchmark] application run
 
 ## Datasets
 
-THe datasets used for the benchmarks are all listed in [datasets.csv] with some basic characteristics, a detailed description can be obtained for each of them by clicking on their [OpenML] identifier.
+THe datasets used for the benchmarks are all listed in [datasets] with some basic characteristics, a detailed description can be obtained for each of them by clicking on their [OpenML] identifier.
 
 ## Running the benchmarks
 
@@ -107,7 +107,7 @@ We also provide all the [leaderboards] obtained for the `H2OAutoML` runs
 
 [automlbenchmark]: https://github.com/openml/automlbenchmark
 [automlbenchmark docker]: https://hub.docker.com/u/automlbenchmark
-[datasets.csv]: ./datasets.csv
+[datasets]: ./datasets/metadata.csv
 [leaderboards]: ./leaderboards
 [results]: ./results
 [H2OAutoML]: https://github.com/h2oai/h2o-3/tree/master/h2o-automl
