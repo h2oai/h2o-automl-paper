@@ -1,6 +1,6 @@
 # H2O AutoML Paper
 
-👋 This repository contains the code for the H2O AutoML paper, [_"H2O AutoML: Scalable Automatic Machine Learning"_](https://github.com/h2oai/h2o-automl-paper/blob/master/paper/H2O_AutoML__ICML_2020_AutoML_workshop.pdf), an accepted paper at the [ICML 2020 AutoML Workshop](https://sites.google.com/view/automl2020/accepted-papers_1).
+👋 This repository contains the code for the H2O AutoML paper, [_"H2O AutoML: Scalable Automatic Machine Learning"_](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf), an accepted paper at the [ICML 2020 AutoML Workshop](https://sites.google.com/view/automl2020/accepted-papers_1).
 
 The Experiments section contains the H2O AutoML specific experiments and the OpenML AutoML Benchmark contains benchmarks against other AutoML systems.
 
